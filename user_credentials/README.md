@@ -1,4 +1,4 @@
-# Project - User Credentials 
+# Practice - User Credentials 
 **Author:**     Jessica Cassidy\
 **Date:**       January 12, 2020
 

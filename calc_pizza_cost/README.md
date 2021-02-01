@@ -1,4 +1,4 @@
-# Project - Pizza Calculator (Price per Sq. Inch)
+# Practice - Pizza Calculator (Price per Sq. Inch)
 **Author:**     Jessica Cassidy\
 **Date:**       January 10, 2020
 

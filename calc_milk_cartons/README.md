@@ -1,4 +1,4 @@
-# Project - Milk Cartons Calculator
+# Practice - Milk Cartons Calculator
 **Author:**     Jessica Cassidy\
 **Date:**       01/26/2021
 
@@ -8,23 +8,6 @@ This program calculates the amount of milk cartons needed based on milk produced
 **Input:**\
 Enter the total amount of milk produced in Liters:\
 (Note: Enter amounts up to one decimal point only.)
-
-**Output:**\
-Enter the total amount of milk produced in Liters:\ 
-(Note: Enter amounts up to one decimal point only.)\
-16.9
-
-Number of Milk Cartons: 0\
-(1 Milk Carton = 1.9 Liters)
-
-Production Cost: $0.00\
-(1 Liter = .50 cent Production Cost)
-
-Production Profit: $0.00\
-(1 Milk Carton = .25 cent Production Profit)
-
-Amount Charged to Supplier: $0.00\
-(Production Cost + Production Profit)
 
 ## Program Output Example:
 Enter the total amount of milk produced in Liters:\

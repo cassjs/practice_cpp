@@ -1,4 +1,4 @@
-# Project - Sports Activities Based on Temp
+# Practice - Sports Activities Based on Temp
 **Author:**     Jessica Cassidy\
 **Date:**       January 11, 2020
 

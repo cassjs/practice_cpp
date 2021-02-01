@@ -1,0 +1,5 @@
+# Mac hidden files
+.DS_Store
+
+# cpp compiled code
+a.out

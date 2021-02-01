@@ -1,4 +1,4 @@
-# Project - Calculate MPG
+# Practice - Calculate MPG
 **Author:**     Jessica Cassidy\
 **Date:**       01/31/2021
 
